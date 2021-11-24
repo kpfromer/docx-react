@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/kpfromer/docx-react/compare/v1.0.0...v1.0.1) (2021-11-24)
+
+
+### Bug Fixes
+
+* docx missing for build ([aa41e50](https://github.com/kpfromer/docx-react/commit/aa41e50f3ddb3f33fbdf80f9686b9fd68f71bbcd))
+* esm export usage ([d3cd602](https://github.com/kpfromer/docx-react/commit/d3cd602f13d7df96e590700822f68a31e431b129))
+* peer deps ([18760b0](https://github.com/kpfromer/docx-react/commit/18760b0e82ffe052dbc4025e22c8dc71c066f555))
+
 # 1.0.0 (2021-11-24)
 
 

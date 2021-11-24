@@ -3,6 +3,7 @@
   "license": "MIT",
   "exports": "./lib/index.js",
   "types": "./lib/index.d.ts",
+  "type": "module",
   "description": "A JSX wrapper around docx for creating docx files.",
   "keywords": [
     "docx",

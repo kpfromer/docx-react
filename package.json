@@ -17,8 +17,10 @@
     "test": "jest --passWithNoTests",
     "test:watch": "jest --watch"
   },
+  "peerDependencies": {
+    "docx": "~7.0.0"
+  },
   "dependencies": {
-    "docx": "^7.1.2",
     "lodash.flattendeep": "^4.4.0"
   },
   "devDependencies": {

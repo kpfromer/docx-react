@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/kpfromer/docx-react/compare/v1.0.2...v1.0.3) (2021-11-24)
+
+
+### Bug Fixes
+
+* build generation ([9110e72](https://github.com/kpfromer/docx-react/commit/9110e7219b901e3906344faffdec9363dcd49988))
+
 ## [1.0.2](https://github.com/kpfromer/docx-react/compare/v1.0.1...v1.0.2) (2021-11-24)
 
 

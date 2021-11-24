@@ -4,3 +4,6 @@ jest.config.js
 tsconfig.json
 yarn-*
 .github
+renovate.json
+pnpm-lock.yaml
+CHANGELOG.md

@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/kpfromer/docx-react/compare/v1.0.4...v1.0.5) (2021-11-25)
+
+
+### Bug Fixes
+
+* add readme ([5adfb4a](https://github.com/kpfromer/docx-react/commit/5adfb4a9bd0f8e06699fddd98bdc47142ea734bc))
+
 ## [1.0.4](https://github.com/kpfromer/docx-react/compare/v1.0.3...v1.0.4) (2021-11-25)
 
 

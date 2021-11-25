@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/kpfromer/docx-react/compare/v1.0.3...v1.0.4) (2021-11-25)
+
+
+### Bug Fixes
+
+* fix ts files not included in npm release ([a9f8f73](https://github.com/kpfromer/docx-react/commit/a9f8f7373f929b7d8a337e92c9278e60184a4d3c))
+
 ## [1.0.3](https://github.com/kpfromer/docx-react/compare/v1.0.2...v1.0.3) (2021-11-24)
 
 

@@ -1,1 +1,1 @@
-export * from './react-docx';
+export * from './react-docx.js';
